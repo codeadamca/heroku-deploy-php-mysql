@@ -2,11 +2,11 @@
 
 // include('connect.php');
 
-echo getenv('DB_HOST');
+echo getenv('DB');
 echo '<br>';
 echo getenv('DB_USER');
 echo '<br>';
-echo getenv('DB_PASSWORD'); 
+echo getenv('DB_USER_PASSWORD'); 
 echo '<br>';
 echo getenv('DB_DATABASE');
 echo '<br>';
