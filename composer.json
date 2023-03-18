@@ -1,0 +1,16 @@
+{
+    "name": "adam/heroku-deploy-php-mysql",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Adam\\HerokuDeployPhpMysql\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Adam Thomas",
+            "email": "thomasadam83@hotmail.com"
+        }
+    ],
+    "require": {}
+}
