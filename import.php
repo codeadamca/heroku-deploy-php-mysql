@@ -1,8 +1,5 @@
 <?php
 
-// $links = getfilecontents('links.sql');
+$links = getfilecontents('links.sql');
 
-// print_r($links);
-
-
-echo 'HELLO WORLD!';
+print_r($links);
