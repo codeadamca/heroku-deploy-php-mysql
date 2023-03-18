@@ -1,5 +1,5 @@
 <?php
 
-$links = getfilecontents('links.sql');
+$links = file_get_contents('links.sql');
 
 print_r($links);
