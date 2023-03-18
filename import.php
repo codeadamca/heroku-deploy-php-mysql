@@ -8,7 +8,7 @@ echo getenv('DB_USER');
 echo '<br>';
 echo getenv('DB_USER_PASSWORD'); 
 echo '<br>';
-echo getenv('DB_DATABASE');
+echo getenv('DB_HOST');
 echo '<br>';
 echo function_exists('mysqli_connect');
 echo '<br>';
