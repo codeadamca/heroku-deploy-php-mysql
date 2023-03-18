@@ -67,7 +67,21 @@ Then you can confirm these have been set properly:
 heroku config
 ```
 
+This repository has been deplyed to https://heroku-deploy-php-mysql.herokuapp.com/.
+
+> **Note**  
+> This app is often deactived to prevent unnecessary expenses.
+
+This PHP has been take form the [php-mysql-images-embedded](https://github.com/codeadamca/php-mysql-images-embedded) repository.
+
 ***
 
+## Repository Resources
+
+* [Heroku](https://heroku.com/) (or any code editor)
+
+<a href="https://codeadam.ca">
+<img src="https://codeadam.ca/images/code-block.png" width="100">
+</a>
 
 
