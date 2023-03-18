@@ -89,10 +89,10 @@ $result = mysqli_query($connect, $query);
                 <span>Adam Thomas</span>
             </h1>
             <h2 class="w3-text-red ca-font-large ca-pt-sans">
-                <span>php-mysql-images-embedded</span>
+                <span>heroku-deply-php-mysql</span>
             </h2>
             <p class="w3-text-white ca-font-small ca-pt-sans w3-center">
-                <span><a href="https://github.com/codeadamca/php-mysql-images-embedded">https://github.com/codeadamca/php-mysql-images-embedded</a></span>
+                <span><a href="https://github.com/codeadamca/heroku-deply-php-mysql">https://github.com/codeadamca/heroku-deply-php-mysql</a></span>
             </p>
 
             <?php while($record = mysqli_fetch_assoc($result)): ?>
