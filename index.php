@@ -1,12 +1,10 @@
 <?php
 
-/*
 include('connect.php');
 
 $query = 'SELECT *
     FROM links';
 $result = mysqli_query($connect, $query);
-*/
 
 ?>
 <!DOCTYPE html>
