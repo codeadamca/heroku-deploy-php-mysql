@@ -78,7 +78,7 @@ This PHP has been take form the [php-mysql-images-embedded](https://github.com/c
 
 ## Repository Resources
 
-* [Heroku](https://heroku.com/) (or any code editor)
+* [Heroku](https://heroku.com/)
 
 <a href="https://codeadam.ca">
 <img src="https://codeadam.ca/images/code-block.png" width="100">
