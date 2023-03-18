@@ -1,8 +1,6 @@
 <?php
 
-// include('connect.php');
-
-echo getenv('DB_USER');
+include('connect.php');
 
 $links = file_get_contents('links.sql');
 
