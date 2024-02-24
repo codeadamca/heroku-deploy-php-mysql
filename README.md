@@ -6,7 +6,7 @@ A basic example of deploying a PHP and MySQL website to Heroku.
 
 First we need to setup our Heroku app and database.
 
-> **Note**  
+> [!Note]  
 > Thes steps assume you have a [Heroku account](https://signup.heroku.com/) and the [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli) installed.
 
 1. Using the Terminan, navigate to your project. This project should already be a Git repository. Type `git status` just to confirm. 
