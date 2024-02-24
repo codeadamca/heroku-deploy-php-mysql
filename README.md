@@ -23,8 +23,8 @@ First we need to setup our Heroku app and database.
     heroku create
     ```
     
-    > **Note**  
-    > You can change the name of the app in your [Heroku dashboard](https://dashboard.heroku.com/apps/).
+> [!Note]  
+> You can change the name of the app in your [Heroku dashboard](https://dashboard.heroku.com/apps/).
     
 4. Change the orign if needed:
 
@@ -70,7 +70,7 @@ First we need to setup our Heroku app and database.
 > This repository has been deplyed at:  
 > https://heroku-deploy-php-mysql.herokuapp.com/.
 
-> **Note**  
+> [!Note]  
 > This app is often deactived to prevent unnecessary expenses.
 
 This PHP has been take form the [php-mysql-images-embedded](https://github.com/codeadamca/php-mysql-images-embedded) repository.
